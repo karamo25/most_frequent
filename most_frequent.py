@@ -20,3 +20,5 @@ def most_frequent(file_name):
 if _name_ == '_main_':
   file = 'words.txt'
   most_frequent(file)
+  print("New changes to be seen by git")
+  
